@@ -25,13 +25,13 @@ ATankShootingCharacter::ATankShootingCharacter()
 	CameraBoom->bAbsoluteRotation = true; // Don't want arm to rotate when character does
 	CameraBoom->TargetArmLength = 800.f;
 	//CameraBoom->RelativeRotation = FRotator(-60.f, 0.f, 0.f);
-	//CameraBoom->RelativeRotation = FRotator(-30.0f, 45.0f, 0.0f);
+	CameraBoom->RelativeRotation = FRotator(-30.0f, 45.0f, 0.0f);
 	CameraBoom->bDoCollisionTest = false; // Don't want to pull camera in when it collides with level
 
 	// Create a camera...
 	TopDownCameraComponent = CreateDefaultSubobject<UCameraComponent>(TEXT("TopDownCamera"));
 	TopDownCameraComponent->AttachTo(CameraBoom, USpringArmComponent::SocketName);
 	TopDownCameraComponent->bUsePawnControlRotation = false; // Camera does not rotate relative to arm
-	TopDownCameraComponent->AddLocalRotation(FRotator(0, 0, 0));
+	//TopDownCameraComponent->AddLocalRotation(FRotator(0, 0, 0));
 
 }
