@@ -39,6 +39,9 @@
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
+# Starter Contents
+Content/StarterContent/*
+
 # Binary Files
 Binaries/*
 
@@ -56,3 +59,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# IDEs
+.codelite/*
+.kdev4/*
