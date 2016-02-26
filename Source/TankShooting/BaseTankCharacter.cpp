@@ -17,6 +17,8 @@ ABaseTankCharacter::ABaseTankCharacter()
 	//GetMesh()->SetSimulatePhysics(true);
 	//GetCapsuleComponent()->SetSimulatePhysics(true);
 	
+	UBoxComponent* BoxComponent = this->FindComponentByClass<UBoxComponent>();
+	
 	FString DebugString = GetName();
 	UE_LOG(LogClass, Log, TEXT("Tank %s has been spawned"), *DebugString);
 }
