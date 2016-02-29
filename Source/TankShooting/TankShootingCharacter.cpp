@@ -6,8 +6,21 @@
 ATankShootingCharacter::ATankShootingCharacter()
 {
 	// Set size for player capsule
-	//GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
+	//GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);	
+	
+	BoxComponent = CreateDefaultSubobject<UBoxComponent>(TEXT("BoxComponent"));
+	
+	static FName CollisionProfileName(TEXT("Pawn"));
+	BoxComponent->SetCollisionProfileName(CollisionProfileName);
+	BoxComponent->CanCharacterStepUpOn = ECB_No;
+	BoxComponent->bShouldUpdatePhysicsVolume = true;
+	BoxComponent->bCheckAsyncSceneOnMove = false;
+	BoxComponent->bCanEverAffectNavigation = false;
+	BoxComponent->bDynamicObstacle = true;
+	//BoxComponent->SetSimulatePhysics(true);
+	RootComponent = BoxComponent;
 
+/*
 	// Don't rotate character to camera direction
 	bUseControllerRotationPitch = false;
 	bUseControllerRotationYaw = false;
@@ -33,5 +46,6 @@ ATankShootingCharacter::ATankShootingCharacter()
 	TopDownCameraComponent->AttachTo(CameraBoom, USpringArmComponent::SocketName);
 	TopDownCameraComponent->bUsePawnControlRotation = false; // Camera does not rotate relative to arm
 	//TopDownCameraComponent->AddLocalRotation(FRotator(0, 0, 0));
+*/
 
 }

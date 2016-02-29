@@ -2,7 +2,7 @@
 # *DO NOT EDIT*
 
 UNREALROOTPATH = "/home/giang/Programs/UnrealEngine"
-GAMEPROJECTFILE =/home/giang/Projects/Unreal Projects/TankShooting/TankShooting.uproject
+GAMEPROJECTFILE =/mnt/Data/Projects/Unreal Projects/TankShooting/TankShooting.uproject
 
 TARGETS = \
 	UE4Client-Linux-Debug  \

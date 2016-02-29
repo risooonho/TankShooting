@@ -1475,7 +1475,7 @@
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BlankProgram/Inc/BlankProgram
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BlankProgram/Inc/BlankProgram
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/BlankProgram
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -1500,18 +1500,18 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BlankProgram/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BlankProgram/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BlankProgram/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BlankProgram/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/BuildPatchTool
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/BuildPatchTool
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/BuildPatchTool
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -1536,7 +1536,7 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/BuildPatchServices
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/BuildPatchServices
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Blueprint
@@ -1544,33 +1544,33 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Serialization
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Templates
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/UObject
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/CoreUObject
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/PakFile/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/PakFile
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/PakFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/PakFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SandboxFile/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/SandboxFile
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/SandboxFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SandboxFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Interfaces
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/NetworkFile/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/NetworkFile
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/NetworkFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/NetworkFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/StreamingFile/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/StreamingFile
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/StreamingFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Sockets/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/Sockets
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BuildPatchTool/Inc/Sockets
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Sockets
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/StreamingFile
 /home/giang/Programs/UnrealEngine/Engine/Source
@@ -1578,7 +1578,7 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/CrashReporter/CrashReportClient/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/CrashReporter/CrashReportClient/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/CrashReportClient
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/CrashReportClient
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/CrashReporter/CrashReportClient
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -1608,48 +1608,48 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Serialization
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Templates
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/UObject
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/CoreUObject
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/CrashDebugHelper/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/CrashDebugHelper
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/CrashDebugHelper
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SourceControl/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SourceControl/Public/Tests
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/SourceControl
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/SourceControl
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/InputCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/InputCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SourceControl
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/CrashDebugHelper
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Online/HTTP/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Online/HTTP/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/HTTP
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/HTTP
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Online/HTTP
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/XmlParser/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/XmlParser/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/XmlParser
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/XmlParser
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/XmlParser
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Analytics/Analytics/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Analytics/Analytics/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/Analytics
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/Analytics
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Analytics/Analytics
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Analytics/AnalyticsET/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/AnalyticsET
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrashReportClient/Inc/AnalyticsET
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Analytics/AnalyticsET
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/CrashReporter/MinidumpDiagnostics/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/MinidumpDiagnostics
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/MinidumpDiagnostics
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/CrashReporter/MinidumpDiagnostics
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -1673,10 +1673,10 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Linux
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/CrashDebugHelper/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/CrashDebugHelper
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/CrashDebugHelper
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SourceControl/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SourceControl/Public/Tests
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/SourceControl
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/SourceControl
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Blueprint
@@ -1684,11 +1684,11 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Serialization
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Templates
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/UObject
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/CoreUObject
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/InputCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/InputCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SourceControl
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/CrashDebugHelper
@@ -1696,20 +1696,20 @@
 /home/giang/Programs/UnrealEngine/Engine/Plugins/Developer/PerforceSourceControl/Source/PerforceSourceControl
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public/Android
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/Launch
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/Launch
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerService/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerService/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/ProfilerService
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/MinidumpDiagnostics/Inc/ProfilerService
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerService
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch
 /home/giang/Programs/UnrealEngine/Engine/Source
@@ -1718,7 +1718,7 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ShaderFormatOpenGL/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ShaderCompilerCommon/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/CrossCompilerTool
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/CrossCompilerTool
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/CrossCompilerTool
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -1743,32 +1743,32 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ShaderCompilerCommon/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/ShaderCompilerCommon
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/ShaderCompilerCommon
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ShaderCompilerCommon
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/IOS/MetalRHI/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/MetalShaderFormat
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/MetalShaderFormat
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/iOS/MetalShaderFormat
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/ShaderFormatOpenGL
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/ShaderFormatOpenGL
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ShaderFormatOpenGL
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ShaderPreprocessor/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/ShaderPreprocessor
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/ShaderPreprocessor
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ShaderPreprocessor
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/ShaderCore/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/ShaderCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/ShaderCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/RHI/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/RHI
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/RHI
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/RHI
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/RenderCore/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/RenderCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/CrossCompilerTool/Inc/RenderCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/RenderCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/ShaderCore
 /home/giang/Programs/UnrealEngine/Engine/Source/ThirdParty/hlslcc
@@ -1776,7 +1776,7 @@
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/UnrealLaunchDaemon
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/UnrealLaunchDaemon
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/IOS/UnrealLaunchDaemon
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -1801,22 +1801,22 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Interfaces
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/NetworkFile/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/NetworkFile
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/NetworkFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/NetworkFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/StreamingFile/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/StreamingFile
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/StreamingFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Sockets/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/Sockets
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/Sockets
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Sockets
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/StreamingFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public
@@ -1843,7 +1843,7 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Notifications
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Text
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Views
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/Slate
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/Slate
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Blueprint
@@ -1851,11 +1851,11 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Serialization
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Templates
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/UObject
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/CoreUObject
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/InputCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/InputCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Animation
@@ -1872,26 +1872,26 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Textures
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Types
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Widgets
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/SlateCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/SlateCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/EditorStyle/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/EditorStyle/Public/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/EditorStyle/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/EditorStyle
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/EditorStyle
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/EditorStyle
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/StandaloneRenderer/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/StandaloneRenderer/Public/IOS
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/StandaloneRenderer
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/StandaloneRenderer
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/StandaloneRenderer
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/IOS/LaunchDaemonMessages/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/IOS/LaunchDaemonMessages/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/LaunchDaemonMessages
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/LaunchDaemonMessages
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/IOS/LaunchDaemonMessages
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Messaging/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Messaging/Public/Deprecated
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Messaging/Public/Helpers
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/Messaging
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/Messaging
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Messaging
 /home/giang/Programs/UnrealEngine/Engine/Plugins/Messaging/UdpMessaging/Source/UdpMessaging/Public
 /home/giang/Programs/UnrealEngine/Engine/Plugins/Messaging/UdpMessaging/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLaunchDaemon/Inc/UdpMessaging
@@ -1899,7 +1899,7 @@
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/Mac/DsymExporter/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/DsymExporter/Inc/DsymExporter
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/DsymExporter/Inc/DsymExporter
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/Mac/DsymExporter
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -1924,26 +1924,26 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/DsymExporter/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/DsymExporter/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/DsymExporter/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/DsymExporter/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public/Android
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/DsymExporter/Inc/Launch
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/DsymExporter/Inc/Launch
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerService/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerService/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/DsymExporter/Inc/ProfilerService
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/DsymExporter/Inc/ProfilerService
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerService
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UE4EditorServices/Inc/UE4EditorServices
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UE4EditorServices/Inc/UE4EditorServices
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/Mac/UE4EditorServices
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -1967,22 +1967,22 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Linux
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DesktopPlatform/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UE4EditorServices/Inc/DesktopPlatform
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UE4EditorServices/Inc/DesktopPlatform
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DesktopPlatform
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UE4EditorServices/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UE4EditorServices/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UE4EditorServices/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UE4EditorServices/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/Mac/UnrealAtoS/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealAtoS/Inc/UnrealAtoS
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealAtoS/Inc/UnrealAtoS
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/Mac/UnrealAtoS
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -2007,26 +2007,26 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealAtoS/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealAtoS/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealAtoS/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealAtoS/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public/Android
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealAtoS/Inc/Launch
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealAtoS/Inc/Launch
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerService/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerService/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealAtoS/Inc/ProfilerService
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealAtoS/Inc/ProfilerService
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerService
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ParallelExecutor/Inc/ParallelExecutor
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ParallelExecutor/Inc/ParallelExecutor
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/ParallelExecutor
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -2051,21 +2051,21 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ParallelExecutor/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ParallelExecutor/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ParallelExecutor/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ParallelExecutor/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/XmlParser/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/XmlParser/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ParallelExecutor/Inc/XmlParser
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ParallelExecutor/Inc/XmlParser
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/XmlParser
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/ShaderCompileWorker
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/ShaderCompileWorker
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/ShaderCompileWorker
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -2090,60 +2090,60 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/ShaderCore/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/ShaderCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/ShaderCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/RHI/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/RHI
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/RHI
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/RHI
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/RenderCore/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/RenderCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/RenderCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/RenderCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/ShaderCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SandboxFile/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/SandboxFile
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/SandboxFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SandboxFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/TargetPlatform/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/TargetPlatform/Public/Common
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/TargetPlatform/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/TargetPlatform
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/TargetPlatform
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DesktopPlatform/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/DesktopPlatform
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/DesktopPlatform
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DesktopPlatform
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/TargetPlatform
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Interfaces
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/NetworkFile/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/NetworkFile
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/NetworkFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/NetworkFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/PakFile/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/PakFile
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/PakFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/PakFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/StreamingFile/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/StreamingFile
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/StreamingFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Sockets/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/Sockets
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/Sockets
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Sockets
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/StreamingFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public/Android
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/Launch
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/Launch
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerService/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerService/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/ProfilerService
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/ShaderCompileWorker/Inc/ProfilerService
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerService
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/SlateViewer/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/SlateViewer
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/SlateViewer
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/SlateViewer
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/AppFramework/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/AppFramework/Public/Widgets
@@ -2151,7 +2151,7 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/AppFramework/Public/Widgets/Testing
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/AppFramework/Public/Widgets/Views
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/AppFramework/Public/Widgets/Workflow
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/AppFramework
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/AppFramework
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Async
@@ -2197,7 +2197,7 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Notifications
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Text
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Views
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/Slate
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/Slate
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Blueprint
@@ -2205,17 +2205,17 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Serialization
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Templates
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/UObject
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/CoreUObject
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/InputCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/InputCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Animation
@@ -2232,35 +2232,35 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Textures
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Types
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Widgets
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/SlateCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/SlateCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/AppFramework
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SlateReflector/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/SlateReflector
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/SlateReflector
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SlateReflector
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/StandaloneRenderer/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/StandaloneRenderer/Public/IOS
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/StandaloneRenderer
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/StandaloneRenderer
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/StandaloneRenderer
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SourceCodeAccess/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/SourceCodeAccess
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/SourceCodeAccess
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/Settings/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/Settings
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/Settings
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/Settings
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SourceCodeAccess
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/WebBrowser/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/WebBrowser
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SlateViewer/Inc/WebBrowser
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/WebBrowser
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/SymbolDebugger/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/SymbolDebugger
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/SymbolDebugger
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/SymbolDebugger
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -2307,7 +2307,7 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Notifications
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Text
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Views
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/Slate
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/Slate
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Blueprint
@@ -2315,17 +2315,17 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Serialization
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Templates
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/UObject
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/CoreUObject
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/InputCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/InputCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Animation
@@ -2342,41 +2342,41 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Textures
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Types
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Widgets
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/SlateCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/SlateCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/EditorStyle/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/EditorStyle/Public/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/EditorStyle/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/EditorStyle
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/EditorStyle
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/EditorStyle
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/StandaloneRenderer/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/StandaloneRenderer/Public/IOS
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/StandaloneRenderer
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/StandaloneRenderer
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/StandaloneRenderer
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DesktopPlatform/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/DesktopPlatform
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/DesktopPlatform
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DesktopPlatform
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/CrashDebugHelper/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/CrashDebugHelper
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/CrashDebugHelper
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SourceControl/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SourceControl/Public/Tests
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/SourceControl
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/SourceControl
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SourceControl
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/CrashDebugHelper
 /home/giang/Programs/UnrealEngine/Engine/Plugins/Developer/PerforceSourceControl/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/PerforceSourceControl
 /home/giang/Programs/UnrealEngine/Engine/Plugins/Developer/PerforceSourceControl/Source/PerforceSourceControl
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/MessageLog/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/MessageLog
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/MessageLog
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/MessageLog
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/SymbolDebugger/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/TestPAL/Inc/TestPAL
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/TestPAL/Inc/TestPAL
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/TestPAL
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -2401,22 +2401,22 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/TestPAL/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/TestPAL/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/TestPAL/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/TestPAL/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DirectoryWatcher/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/TestPAL/Inc/DirectoryWatcher
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/TestPAL/Inc/DirectoryWatcher
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DirectoryWatcher
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/UnrealCEFSubProcess/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealCEFSubProcess/Inc/UnrealCEFSubProcess
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealCEFSubProcess/Inc/UnrealCEFSubProcess
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/UnrealCEFSubProcess
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -2441,16 +2441,16 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealCEFSubProcess/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealCEFSubProcess/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealCEFSubProcess/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealCEFSubProcess/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CEF3Utils/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealCEFSubProcess/Inc/CEF3Utils
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealCEFSubProcess/Inc/CEF3Utils
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CEF3Utils
 /home/giang/Programs/UnrealEngine/Engine/Source/ThirdParty/CEF3
 /home/giang/Programs/UnrealEngine/Engine/Source
@@ -2458,7 +2458,7 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/ThirdParty/llvm/3.5.0/include
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/UnrealCodeAnalyzer/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealCodeAnalyzer/Inc/UnrealCodeAnalyzer
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealCodeAnalyzer/Inc/UnrealCodeAnalyzer
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Async
@@ -2482,12 +2482,12 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealCodeAnalyzer/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealCodeAnalyzer/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealCodeAnalyzer/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealCodeAnalyzer/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/UnrealCodeAnalyzer
@@ -2495,7 +2495,7 @@
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFileServer/Inc/UnrealFileServer
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFileServer/Inc/UnrealFileServer
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/UnrealFileServer
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -2519,27 +2519,27 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Linux
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DirectoryWatcher/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFileServer/Inc/DirectoryWatcher
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFileServer/Inc/DirectoryWatcher
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DirectoryWatcher
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/NetworkFileSystem/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/NetworkFileSystem/Public/Interfaces
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFileServer/Inc/NetworkFileSystem
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFileServer/Inc/NetworkFileSystem
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Sockets/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFileServer/Inc/Sockets
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFileServer/Inc/Sockets
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Sockets
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/NetworkFileSystem
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SandboxFile/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFileServer/Inc/SandboxFile
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFileServer/Inc/SandboxFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SandboxFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFileServer/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFileServer/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFileServer/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFileServer/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source
@@ -2547,11 +2547,11 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/UnrealFrontend/Private/Commands
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/UnrealFrontend
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/UnrealFrontend
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/UnrealFrontend
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/AutomationController/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/AutomationController/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/AutomationController
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/AutomationController
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Async
@@ -2581,39 +2581,39 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Serialization
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Templates
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/UObject
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/CoreUObject
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DeviceManager/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DeviceManager/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/DeviceManager
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/DeviceManager
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/TargetDeviceServices/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/TargetDeviceServices/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/TargetDeviceServices/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/TargetDeviceServices
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/TargetDeviceServices
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/TargetDeviceServices
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DeviceManager
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/LauncherServices/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/LauncherServices/Public/Common
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/LauncherServices/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/LauncherServices
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/LauncherServices
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/LauncherServices
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Messaging/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Messaging/Public/Deprecated
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Messaging/Public/Helpers
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/Messaging
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/Messaging
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Messaging
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/Profiler/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/Profiler/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/Profiler
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/Profiler
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/InputCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/InputCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/RHI/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/RHI
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/RHI
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/RHI
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/RenderCore/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/RenderCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/RenderCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/RenderCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public/Framework
@@ -2639,12 +2639,12 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Notifications
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Text
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Views
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/Slate
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/Slate
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Animation
@@ -2661,66 +2661,66 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Textures
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Types
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Widgets
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/SlateCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/SlateCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/EditorStyle/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/EditorStyle/Public/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/EditorStyle/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/EditorStyle
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/EditorStyle
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/EditorStyle
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerClient/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerClient/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/ProfilerClient
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/ProfilerClient
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerService/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerService/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/ProfilerService
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/ProfilerService
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerService
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProfilerClient
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DesktopPlatform/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/DesktopPlatform
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/DesktopPlatform
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DesktopPlatform
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/Profiler
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProjectLauncher/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProjectLauncher/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/ProjectLauncher
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/ProjectLauncher
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/TargetPlatform/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/TargetPlatform/Public/Common
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/TargetPlatform/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/TargetPlatform
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/TargetPlatform
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/TargetPlatform
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/ProjectLauncher
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SessionFrontend/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/SessionFrontend
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/SessionFrontend
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SessionFrontend
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SessionServices/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/SessionServices
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/SessionServices
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SessionServices
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SlateReflector/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/SlateReflector
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/SlateReflector
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SlateReflector
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SourceCodeAccess/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/SourceCodeAccess
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/SourceCodeAccess
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/Settings/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/Settings
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/Settings
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/Settings
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/SourceCodeAccess
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/StandaloneRenderer/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/StandaloneRenderer/Public/IOS
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/StandaloneRenderer
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/StandaloneRenderer
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/StandaloneRenderer
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Networking/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Networking/Public/Common
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Networking/Public/Interfaces
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Networking/Public/Interfaces/IPv4
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Networking/Public/Interfaces/Steam
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/Networking
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/Networking
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Sockets/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/Sockets
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealFrontend/Inc/Sockets
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Sockets
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Networking
 /home/giang/Programs/UnrealEngine/Engine/Plugins/Messaging/UdpMessaging/Source/UdpMessaging/Public
@@ -2730,7 +2730,7 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealHeaderTool/Inc/UnrealHeaderTool
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealHeaderTool/Inc/UnrealHeaderTool
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -2760,17 +2760,17 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Serialization
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Templates
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/UObject
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealHeaderTool/Inc/CoreUObject
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealHeaderTool/Inc/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealHeaderTool/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealHeaderTool/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealHeaderTool/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealHeaderTool/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
@@ -2785,7 +2785,7 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/UnrealLightmass/Private/LightmassCore/Types
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/UnrealLightmass/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/UnrealLightmass
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/UnrealLightmass
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/UnrealLightmass
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -2815,21 +2815,21 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Serialization
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Templates
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/UObject
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/CoreUObject
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/ThirdParty/zlib/zlib-1.2.5/Inc
 /home/giang/Programs/UnrealEngine/Engine/Source/ThirdParty/zlib
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/SwarmInterface/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/SwarmInterface
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/SwarmInterface
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/SwarmInterface
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Networking/Public
@@ -2837,15 +2837,15 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Networking/Public/Interfaces
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Networking/Public/Interfaces/IPv4
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Networking/Public/Interfaces/Steam
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/Networking
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/Networking
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Sockets/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/Sockets
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/Sockets
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Sockets
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Networking
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Messaging/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Messaging/Public/Deprecated
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Messaging/Public/Helpers
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/Messaging
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/Messaging
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Messaging
 /home/giang/Programs/UnrealEngine/Engine/Plugins/Messaging/UdpMessaging/Source/UdpMessaging/Public
 /home/giang/Programs/UnrealEngine/Engine/Plugins/Messaging/UdpMessaging/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealLightmass/Inc/UdpMessaging
@@ -2853,7 +2853,7 @@
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealPak/Inc/UnrealPak
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealPak/Inc/UnrealPak
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/UnrealPak
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -2877,22 +2877,22 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Linux
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/PakFile/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealPak/Inc/PakFile
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealPak/Inc/PakFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/PakFile
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealPak/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealPak/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealPak/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealPak/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/UnrealSync
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/UnrealSync
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/UnrealSync
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -2917,12 +2917,12 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public
@@ -2949,7 +2949,7 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Notifications
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Text
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Views
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/Slate
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/Slate
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Blueprint
@@ -2957,11 +2957,11 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Serialization
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/Templates
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject/Public/UObject
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/CoreUObject
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/CoreUObject
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore/Classes
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/InputCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/InputCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/InputCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Animation
@@ -2978,24 +2978,24 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Textures
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Types
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Widgets
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/SlateCore
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/SlateCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/SlateCore
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Slate
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/StandaloneRenderer/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/StandaloneRenderer/Public/IOS
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/StandaloneRenderer
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/StandaloneRenderer
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/StandaloneRenderer
 /home/giang/Programs/UnrealEngine/Engine/Source/Editor/XmlParser/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/XmlParser/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/XmlParser
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/XmlParser
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/XmlParser
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DesktopPlatform/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/DesktopPlatform
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealSync/Inc/DesktopPlatform
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DesktopPlatform
 /home/giang/Programs/UnrealEngine/Engine/Source
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Launch/Private
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealVersionSelector/Inc/UnrealVersionSelector
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealVersionSelector/Inc/UnrealVersionSelector
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/UnrealVersionSelector
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
@@ -3020,23 +3020,23 @@
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects/Public/Interfaces
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealVersionSelector/Inc/Projects
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealVersionSelector/Inc/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Dom
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Policies
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json/Public/Serialization
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealVersionSelector/Inc/Json
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealVersionSelector/Inc/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Json
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Projects
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DesktopPlatform/Public
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealVersionSelector/Inc/DesktopPlatform
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UnrealVersionSelector/Inc/DesktopPlatform
 /home/giang/Programs/UnrealEngine/Engine/Source/Developer/DesktopPlatform
 /home/giang/Programs/UnrealEngine/Engine/Source
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BootstrapPackagedGame/Inc/BootstrapPackagedGame
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/BootstrapPackagedGame/Inc/BootstrapPackagedGame
 /home/giang/Programs/UnrealEngine/Engine/Source/Programs/Windows/BootstrapPackagedGame
 /home/giang/Programs/UnrealEngine/Engine/Source
-/home/giang/Projects/Unreal Projects/TankShooting/Source
-/home/giang/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UE4Editor/Inc/TankShooting
+/mnt/Data/Projects/Unreal Projects/TankShooting/Source
+/mnt/Data/Projects/Unreal Projects/TankShooting/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UE4Editor/Inc/TankShooting
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Internationalization
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Core/Public/Async
@@ -3282,4 +3282,4 @@
 /home/giang/Programs/UnrealEngine/Engine/Intermediate/Build/Linux/x86_64-unknown-linux-gnu/UE4Editor/Inc/PacketHandler
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/PacketHandlers/PacketHandler
 /home/giang/Programs/UnrealEngine/Engine/Source/Runtime/Engine
-/home/giang/Projects/Unreal Projects/TankShooting/Source/TankShooting
+/mnt/Data/Projects/Unreal Projects/TankShooting/Source/TankShooting
