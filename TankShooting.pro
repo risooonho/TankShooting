@@ -9,9 +9,9 @@ CONFIG -= qt
 TARGET = UE4 
 
 unrealRootPath=/home/giang/Programs/UnrealEngine
-TankShootingRootPath=/home/giang/Projects/Unreal Projects/TankShooting
+TankShootingRootPath=/mnt/Data/Projects/Unreal Projects/TankShooting
 
-gameProjectFile=/home/giang/Projects/Unreal Projects/TankShooting/TankShooting.uproject
+gameProjectFile=/mnt/Data/Projects/Unreal Projects/TankShooting/TankShooting.uproject
 build=mono $$unrealRootPath/Engine/Binaries/DotNET/UnrealBuildTool.exe
 
 args=$(ARGS)

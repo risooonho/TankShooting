@@ -3414,7 +3414,7 @@
       <Project Name="TankShooting" ConfigName="Development"/>
       <Project Name="TankShootingEditor" ConfigName="Development"/>
     </WorkspaceConfiguration>
-    <WorkspaceConfiguration Name="Shipping" Selected="yes">
+    <WorkspaceConfiguration Name="Shipping" Selected="no">
       <Project Name="UE4Client" ConfigName="Shipping"/>
       <Project Name="UE4Editor" ConfigName="Shipping"/>
       <Project Name="UE4Game" ConfigName="Shipping"/>
@@ -3446,7 +3446,7 @@
       <Project Name="TankShooting" ConfigName="Shipping"/>
       <Project Name="TankShootingEditor" ConfigName="Shipping"/>
     </WorkspaceConfiguration>
-    <WorkspaceConfiguration Name="Test" Selected="yes">
+    <WorkspaceConfiguration Name="Test" Selected="no">
       <Project Name="UE4Client" ConfigName="Test"/>
       <Project Name="UE4Editor" ConfigName="Test"/>
       <Project Name="UE4Game" ConfigName="Test"/>

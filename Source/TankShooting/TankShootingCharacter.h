@@ -15,6 +15,12 @@ class ATankShootingCharacter : public ACharacter
 	/** Camera boom positioning the camera above the character */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
 	class USpringArmComponent* CameraBoom;
+	
+public:
+	
+	// Box Collision as the root component
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	class UBoxComponent *BoxComponent;
 
 
 public:
