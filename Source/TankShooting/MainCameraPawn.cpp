@@ -1,0 +1,56 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#include "TankShooting.h"
+#include "MainCameraPawn.h"
+
+
+// Sets default values
+AMainCameraPawn::AMainCameraPawn()
+{
+ 	// Set this pawn to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
+	PrimaryActorTick.bCanEverTick = true;
+
+	// Create components
+	RootComponent = CreateDefaultSubobject<USceneComponent>(TEXT("RootComponent"));
+	CameraSpringArm = CreateDefaultSubobject<USpringArmComponent>(TEXT("CameraSpringArm"));
+	CameraSpringArm->AttachTo(RootComponent);
+	CameraSpringArm->SetRelativeLocationAndRotation(
+		FVector(0.0f, 0.0f, 50.0f),
+		FRotator(0.0f, -30.0f, 45.0f));
+	CameraSpringArm->TargetArmLength = 400.0f;
+	CameraSpringArm->bEnableCameraLag = true;
+	CameraSpringArm->CameraLagSpeed = 3.0f;
+	
+	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("MainCamera"));
+	Camera->AttachTo(CameraSpringArm, USpringArmComponent::SocketName);
+	
+	// Take control of the default player
+	AutoPossessPlayer = EAutoReceiveInput::Player0;
+}
+
+// Called when the game starts or when spawned
+void AMainCameraPawn::BeginPlay()
+{
+	Super::BeginPlay();
+	
+}
+
+// Called every frame
+void AMainCameraPawn::Tick( float DeltaTime )
+{
+	Super::Tick( DeltaTime );
+
+}
+
+// Called to bind functionality to input
+void AMainCameraPawn::SetupPlayerInputComponent(class UInputComponent* InputComponent)
+{
+	Super::SetupPlayerInputComponent(InputComponent);
+
+	InputComponent->BindAction("SetDestination", IE_Pressed, this, &AMainCameraPawn::ChangeTarget);
+	//InputComponent->BindAction("SetDestination", IE_Released, this, &AMainCameraPawn::ChangeTarget);
+}
+
+void AMainCameraPawn::ChangeTarget()
+{
+}

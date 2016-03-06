@@ -7185,6 +7185,8 @@ HEADERS += \
 	"$$unrealRootPath/Engine/Plugins/Slate/SlateRemote/Source/SlateRemote/Private/Server/SlateRemoteServerMessage.h" \
 	"$$unrealRootPath/Engine/Plugins/Slate/SlateRemote/Source/SlateRemote/Private/Shared/SlateRemoteSettings.h" \
 	"$$TankShootingRootPath/Source/TankShooting/BaseTankCharacter.h" \
+	"$$TankShootingRootPath/Source/TankShooting/CameraFollowComponent.h" \
+	"$$TankShootingRootPath/Source/TankShooting/MainCameraPawn.h" \
 	"$$TankShootingRootPath/Source/TankShooting/SpawnVolume.h" \
 	"$$TankShootingRootPath/Source/TankShooting/TankShooting.h" \
 	"$$TankShootingRootPath/Source/TankShooting/TankShootingCharacter.h" \
