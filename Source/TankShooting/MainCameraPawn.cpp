@@ -15,8 +15,8 @@ AMainCameraPawn::AMainCameraPawn()
 	CameraSpringArm = CreateDefaultSubobject<USpringArmComponent>(TEXT("CameraSpringArm"));
 	CameraSpringArm->AttachTo(RootComponent);
 	CameraSpringArm->SetRelativeLocationAndRotation(
-		FVector(0.0f, 0.0f, 50.0f),
-		FRotator(0.0f, -30.0f, 45.0f));
+		FVector(0.0f, 0.0f, 1000.0f),
+		FRotator(-30.0f, 45.0f, 0.0f));
 	CameraSpringArm->TargetArmLength = 400.0f;
 	CameraSpringArm->bEnableCameraLag = true;
 	CameraSpringArm->CameraLagSpeed = 3.0f;

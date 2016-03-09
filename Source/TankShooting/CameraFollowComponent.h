@@ -26,6 +26,6 @@ public:
 	
 	FVector OffsetToCharacter;
 	
-	ABaseTankCharacter Target;
+	ABaseTankCharacter* Target;
 	
 };
