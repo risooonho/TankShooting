@@ -3,7 +3,6 @@
 #include "TankShooting.h"
 #include "MainCameraPawn.h"
 
-
 // Sets default values
 AMainCameraPawn::AMainCameraPawn()
 {
@@ -47,10 +46,9 @@ void AMainCameraPawn::SetupPlayerInputComponent(class UInputComponent* InputComp
 {
 	Super::SetupPlayerInputComponent(InputComponent);
 
-	InputComponent->BindAction("SetDestination", IE_Pressed, this, &AMainCameraPawn::ChangeTarget);
-	//InputComponent->BindAction("SetDestination", IE_Released, this, &AMainCameraPawn::ChangeTarget);
 }
 
-void AMainCameraPawn::ChangeTarget()
+void AMainCameraPawn::ChangeTarget(ABaseTankCharacter* NewTarget)
 {
+	UE_LOG(LogClass, Log, TEXT("We got new target: %s"), *NewTarget->GetName());
 }

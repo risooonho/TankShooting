@@ -12,6 +12,7 @@ class TANKSHOOTING_API AMainCameraPawn : public APawn
 	GENERATED_BODY()
 
 public:
+
 	// Sets default values for this pawn's properties
 	AMainCameraPawn();
 
@@ -24,6 +25,13 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* InputComponent) override;
 	
+	static AMainCameraPawn* GetInstance();
+	
+	static void DestroyInstance();
+	
+	// Input function
+	void ChangeTarget(ABaseTankCharacter* NewTarget);
+	
 protected:
 	
 	UPROPERTY(EditAnywhere)
@@ -35,7 +43,5 @@ protected:
 	UPROPERTY(EditAnywhere)
 	ABaseTankCharacter* Target;
 	
-	// Input function
-	void ChangeTarget();
 	
 };

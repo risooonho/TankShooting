@@ -1,6 +1,7 @@
 // Copyright 1998-2015 Epic Games, Inc. All Rights Reserved.
 #pragma once
 #include "GameFramework/PlayerController.h"
+#include "MainCameraPawn.h"
 #include "TankShootingPlayerController.generated.h"
 
 UCLASS()
@@ -32,6 +33,9 @@ protected:
 	/** Input handlers for SetDestination action. */
 	void OnSetDestinationPressed();
 	void OnSetDestinationReleased();
+	
+public:
+	
+	UPROPERTY(EditAnywhere)
+	AMainCameraPawn* Camera;
 };
-
-

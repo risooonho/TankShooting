@@ -1,6 +1,8 @@
 // Copyright 1998-2015 Epic Games, Inc. All Rights Reserved.
 
 #include "TankShooting.h"
+#include "BaseTankCharacter.h"
+#include "EngineUtils.h"
 #include "TankShootingPlayerController.h"
 #include "AI/Navigation/NavigationSystem.h"
 
@@ -8,6 +10,20 @@ ATankShootingPlayerController::ATankShootingPlayerController()
 {
 	bShowMouseCursor = true;
 	DefaultMouseCursor = EMouseCursor::Crosshairs;
+	
+	UWorld* World = GetWorld();
+	if (World != nullptr)
+	{
+		for (TActorIterator<AMainCameraPawn> ActorItr(World); ActorItr; ++ActorItr)
+		{
+			AMainCameraPawn *CameraPawn = *ActorItr;
+			FString CameraPawnName = CameraPawn->GetName();
+			if (CameraPawnName.Contains(TEXT("MainCameraPawn")))
+			{
+				Camera = CameraPawn;
+			}
+		}
+	}
 }
 
 void ATankShootingPlayerController::PlayerTick(float DeltaTime)
@@ -39,6 +55,27 @@ void ATankShootingPlayerController::MoveToMouseCursor()
 	// Trace to see what is under the mouse cursor
 	FHitResult Hit;
 	GetHitResultUnderCursor(ECC_Visibility, false, Hit);
+	
+	if (Hit.GetActor() != nullptr)
+	{
+		AActor* HitActor = Hit.GetActor();
+		FString HitActorName = Hit.GetActor()->GetName();
+		if (HitActorName.Contains(TEXT("Tank")))
+		{
+			// Process here if hits a tank
+			UnPossess();
+			Possess((APawn*)HitActor);
+			UE_LOG(LogClass, Log, TEXT("Possess tank %s"), *HitActor->GetName());
+			Camera->ChangeTarget((ABaseTankCharacter*)HitActor);
+			
+			SetViewTarget(Camera);
+		}
+		else if (HitActorName.Contains(TEXT("Floor")))
+		{
+			// Process here if hits floor
+		}
+		//UE_LOG(LogClass, Log, TEXT("Clicked to %s"), *Hit.GetActor()->GetName());
+	}
 
 	if (Hit.bBlockingHit)
 	{

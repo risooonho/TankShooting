@@ -10,13 +10,13 @@ ATankShootingCharacter::ATankShootingCharacter()
 	
 	BoxComponent = CreateDefaultSubobject<UBoxComponent>(TEXT("BoxComponent"));
 	
-	static FName CollisionProfileName(TEXT("Pawn"));
+/*	static FName CollisionProfileName(TEXT("Pawn"));
 	BoxComponent->SetCollisionProfileName(CollisionProfileName);
 	BoxComponent->CanCharacterStepUpOn = ECB_No;
 	BoxComponent->bShouldUpdatePhysicsVolume = true;
 	BoxComponent->bCheckAsyncSceneOnMove = false;
 	BoxComponent->bCanEverAffectNavigation = false;
-	BoxComponent->bDynamicObstacle = true;
+	BoxComponent->bDynamicObstacle = true;*/
 	//BoxComponent->SetSimulatePhysics(true);
 	RootComponent = BoxComponent;
 
