@@ -61,5 +61,8 @@ void AMainCameraPawn::SetupPlayerInputComponent(class UInputComponent* InputComp
 void AMainCameraPawn::ChangeTarget(ABaseTankCharacter* NewTarget)
 {
 	UE_LOG(LogClass, Log, TEXT("We got new target: %s"), *NewTarget->GetName());
+<<<<<<< HEAD
 	Target = NewTarget;
+=======
+>>>>>>> 193e12b... Allow PlayerController to possess tanks when clicking on one
 }

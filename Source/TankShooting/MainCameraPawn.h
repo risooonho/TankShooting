@@ -32,7 +32,11 @@ public:
 	// Input function
 	void ChangeTarget(ABaseTankCharacter* NewTarget);
 	
+<<<<<<< HEAD
 public:
+=======
+protected:
+>>>>>>> 193e12b... Allow PlayerController to possess tanks when clicking on one
 	
 	UPROPERTY(EditAnywhere)
 	USpringArmComponent* CameraSpringArm;
@@ -43,8 +47,11 @@ public:
 	UPROPERTY(EditAnywhere)
 	ABaseTankCharacter* Target;
 	
+<<<<<<< HEAD
 	UPROPERTY(EditAnywhere)
 	FVector Offset;
 	
+=======
+>>>>>>> 193e12b... Allow PlayerController to possess tanks when clicking on one
 	
 };
