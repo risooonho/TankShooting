@@ -34,10 +34,13 @@
 *.suo
 *.opensdf
 *.sdf
+<<<<<<< HEAD
 *.kdev4
 *.pro.user
 *.pri
 *.workspace
+=======
+>>>>>>> 3570a75ad0f871395cde9a54c506f2fb884ac3ae
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -67,4 +70,7 @@ DerivedDataCache/*
 # IDEs
 .codelite/*
 .kdev4/*
+<<<<<<< HEAD
 core
+=======
+>>>>>>> 3570a75ad0f871395cde9a54c506f2fb884ac3ae

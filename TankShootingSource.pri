@@ -5315,6 +5315,10 @@ SOURCES += \
 	"$$unrealRootPath/Engine/Plugins/Slate/SlateRemote/Source/SlateRemote/Private/SlateRemoteModule.cpp" \
 	"$$unrealRootPath/Engine/Plugins/Slate/SlateRemote/Source/SlateRemote/Private/Server/SlateRemoteServer.cpp" \
 	"$$TankShootingRootPath/Source/TankShooting/BaseTankCharacter.cpp" \
+<<<<<<< HEAD
+=======
+	"$$TankShootingRootPath/Source/TankShooting/CameraFollowComponent.cpp" \
+>>>>>>> 3570a75ad0f871395cde9a54c506f2fb884ac3ae
 	"$$TankShootingRootPath/Source/TankShooting/MainCameraPawn.cpp" \
 	"$$TankShootingRootPath/Source/TankShooting/SpawnVolume.cpp" \
 	"$$TankShootingRootPath/Source/TankShooting/TankShooting.cpp" \

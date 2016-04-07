@@ -1,14 +1,18 @@
 // Copyright 1998-2015 Epic Games, Inc. All Rights Reserved.
 
 #include "TankShooting.h"
+<<<<<<< HEAD
 #include "BaseTankCharacter.h"
 #include "EngineUtils.h"
+=======
+>>>>>>> 3570a75ad0f871395cde9a54c506f2fb884ac3ae
 #include "TankShootingPlayerController.h"
 #include "AI/Navigation/NavigationSystem.h"
 
 ATankShootingPlayerController::ATankShootingPlayerController()
 {
 	bShowMouseCursor = true;
+<<<<<<< HEAD
 <<<<<<< HEAD
 	DefaultMouseCursor = EMouseCursor::Default;
 	
@@ -34,6 +38,9 @@ void ATankShootingPlayerController::SetupCameraPawn()
 			}
 		}
 	}
+=======
+	DefaultMouseCursor = EMouseCursor::Crosshairs;
+>>>>>>> 3570a75ad0f871395cde9a54c506f2fb884ac3ae
 }
 
 void ATankShootingPlayerController::PlayerTick(float DeltaTime)
@@ -65,6 +72,7 @@ void ATankShootingPlayerController::MoveToMouseCursor()
 	// Trace to see what is under the mouse cursor
 	FHitResult Hit;
 	GetHitResultUnderCursor(ECC_Visibility, false, Hit);
+<<<<<<< HEAD
 	
 	if (Hit.GetActor() != nullptr)
 <<<<<<< HEAD
@@ -118,6 +126,14 @@ void ATankShootingPlayerController::MoveToMouseCursor()
 	//	// We hit something, move there
 	//	SetNewMoveDestination(Hit.ImpactPoint);
 	//}
+=======
+
+	if (Hit.bBlockingHit)
+	{
+		// We hit something, move there
+		SetNewMoveDestination(Hit.ImpactPoint);
+	}
+>>>>>>> 3570a75ad0f871395cde9a54c506f2fb884ac3ae
 }
 
 void ATankShootingPlayerController::MoveToTouchLocation(const ETouchIndex::Type FingerIndex, const FVector Location)
@@ -141,6 +157,7 @@ void ATankShootingPlayerController::SetNewMoveDestination(const FVector DestLoca
 	{
 		UNavigationSystem* const NavSys = GetWorld()->GetNavigationSystem();
 		float const Distance = FVector::Dist(DestLocation, Pawn->GetActorLocation());
+<<<<<<< HEAD
 		UE_LOG(LogClass, Log, TEXT("Has pawn"));
 
 		// We need to issue move command only if far enough in order for walk animation to play correctly
@@ -148,6 +165,13 @@ void ATankShootingPlayerController::SetNewMoveDestination(const FVector DestLoca
 		{
 			NavSys->SimpleMoveToLocation(this, DestLocation);
 			UE_LOG(LogClass, Log, TEXT("Has nav sys"));
+=======
+
+		// We need to issue move command only if far enough in order for walk animation to play correctly
+		if (NavSys && (Distance > 120.0f))
+		{
+			NavSys->SimpleMoveToLocation(this, DestLocation);
+>>>>>>> 3570a75ad0f871395cde9a54c506f2fb884ac3ae
 		}
 	}
 }
