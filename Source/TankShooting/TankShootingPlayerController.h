@@ -1,7 +1,10 @@
 // Copyright 1998-2015 Epic Games, Inc. All Rights Reserved.
 #pragma once
 #include "GameFramework/PlayerController.h"
+<<<<<<< HEAD
 #include "MainCameraPawn.h"
+=======
+>>>>>>> 3570a75ad0f871395cde9a54c506f2fb884ac3ae
 #include "TankShootingPlayerController.generated.h"
 
 UCLASS()
@@ -33,6 +36,7 @@ protected:
 	/** Input handlers for SetDestination action. */
 	void OnSetDestinationPressed();
 	void OnSetDestinationReleased();
+<<<<<<< HEAD
 	
 public:
 	
@@ -46,3 +50,8 @@ private:
 =======
 >>>>>>> 193e12b... Allow PlayerController to possess tanks when clicking on one
 };
+=======
+};
+
+
+>>>>>>> 3570a75ad0f871395cde9a54c506f2fb884ac3ae

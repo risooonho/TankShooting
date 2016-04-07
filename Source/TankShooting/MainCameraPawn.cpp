@@ -3,6 +3,10 @@
 #include "TankShooting.h"
 #include "MainCameraPawn.h"
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3570a75ad0f871395cde9a54c506f2fb884ac3ae
 // Sets default values
 AMainCameraPawn::AMainCameraPawn()
 {
@@ -25,9 +29,12 @@ AMainCameraPawn::AMainCameraPawn()
 	
 	// Take control of the default player
 	AutoPossessPlayer = EAutoReceiveInput::Player0;
+<<<<<<< HEAD
 	
 	// Set Offset value
 	Offset.Set(-1500, -1500, 400);
+=======
+>>>>>>> 3570a75ad0f871395cde9a54c506f2fb884ac3ae
 }
 
 // Called when the game starts or when spawned
@@ -42,6 +49,7 @@ void AMainCameraPawn::Tick( float DeltaTime )
 {
 	Super::Tick( DeltaTime );
 
+<<<<<<< HEAD
 	// Maintain distance to target
 	if (Target != nullptr)
 	{
@@ -49,6 +57,8 @@ void AMainCameraPawn::Tick( float DeltaTime )
 		SetActorLocation(TargetLocation, true);
 	}
 	
+=======
+>>>>>>> 3570a75ad0f871395cde9a54c506f2fb884ac3ae
 }
 
 // Called to bind functionality to input
@@ -56,6 +66,7 @@ void AMainCameraPawn::SetupPlayerInputComponent(class UInputComponent* InputComp
 {
 	Super::SetupPlayerInputComponent(InputComponent);
 
+<<<<<<< HEAD
 }
 
 void AMainCameraPawn::ChangeTarget(ABaseTankCharacter* NewTarget)
@@ -65,4 +76,12 @@ void AMainCameraPawn::ChangeTarget(ABaseTankCharacter* NewTarget)
 	Target = NewTarget;
 =======
 >>>>>>> 193e12b... Allow PlayerController to possess tanks when clicking on one
+=======
+	InputComponent->BindAction("SetDestination", IE_Pressed, this, &AMainCameraPawn::ChangeTarget);
+	//InputComponent->BindAction("SetDestination", IE_Released, this, &AMainCameraPawn::ChangeTarget);
+}
+
+void AMainCameraPawn::ChangeTarget()
+{
+>>>>>>> 3570a75ad0f871395cde9a54c506f2fb884ac3ae
 }

@@ -1,7 +1,11 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #pragma once
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> 3570a75ad0f871395cde9a54c506f2fb884ac3ae
 #include "TankShootingCharacter.h"
 #include "BaseTankCharacter.generated.h"
 
