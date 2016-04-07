@@ -29,6 +29,9 @@ void ATankShootingPlayerController::SetupCameraPawn()
 			}
 		}
 	}
+=======
+	DefaultMouseCursor = EMouseCursor::Crosshairs;
+>>>>>>> 3570a75ad0f871395cde9a54c506f2fb884ac3ae
 }
 
 void ATankShootingPlayerController::PlayerTick(float DeltaTime)
