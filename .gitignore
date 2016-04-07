@@ -34,6 +34,10 @@
 *.suo
 *.opensdf
 *.sdf
+*.kdev4
+*.pro.user
+*.pri
+*.workspace
 
 # Precompiled Assets
 SourceArt/**/*.png
