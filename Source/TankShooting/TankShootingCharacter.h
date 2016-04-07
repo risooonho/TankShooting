@@ -4,17 +4,9 @@
 #include "TankShootingCharacter.generated.h"
 
 UCLASS(Blueprintable)
-class ATankShootingCharacter : public ACharacter
+class ATankShootingCharacter : public APawn
 {
 	GENERATED_BODY()
-
-/*	//Top down camera
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
-	class UCameraComponent* TopDownCameraComponent;
-
-	// Camera boom positioning the camera above the character
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
-	class USpringArmComponent* CameraBoom; */
 	
 public:
 	
@@ -22,13 +14,14 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	class UBoxComponent *BoxComponent;
 
+	// CharacterMovement for controlling tank's movement
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	UPawnMovementComponent* PawnMovement;
 
 public:
 	ATankShootingCharacter();
 
-/*	// Returns TopDownCameraComponent subobject
-	FORCEINLINE class UCameraComponent* GetTopDownCameraComponent() const { return TopDownCameraComponent; }
-	// Returns CameraBoom subobject
-	FORCEINLINE class USpringArmComponent* GetCameraBoom() const { return CameraBoom; }*/
+	class UPawnMovementComponent* GetPawnMovement() const;
+
 };
 

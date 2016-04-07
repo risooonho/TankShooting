@@ -25,6 +25,9 @@ AMainCameraPawn::AMainCameraPawn()
 	
 	// Take control of the default player
 	AutoPossessPlayer = EAutoReceiveInput::Player0;
+	
+	// Set Offset value
+	Offset.Set(-1500, -1500, 400);
 }
 
 // Called when the game starts or when spawned
@@ -39,6 +42,13 @@ void AMainCameraPawn::Tick( float DeltaTime )
 {
 	Super::Tick( DeltaTime );
 
+	// Maintain distance to target
+	if (Target != nullptr)
+	{
+		FVector TargetLocation = Target->GetActorLocation() + Offset;
+		SetActorLocation(TargetLocation, true);
+	}
+	
 }
 
 // Called to bind functionality to input
@@ -51,4 +61,5 @@ void AMainCameraPawn::SetupPlayerInputComponent(class UInputComponent* InputComp
 void AMainCameraPawn::ChangeTarget(ABaseTankCharacter* NewTarget)
 {
 	UE_LOG(LogClass, Log, TEXT("We got new target: %s"), *NewTarget->GetName());
+	Target = NewTarget;
 }
