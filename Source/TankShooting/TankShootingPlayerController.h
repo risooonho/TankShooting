@@ -38,4 +38,8 @@ public:
 	
 	UPROPERTY(EditAnywhere)
 	AMainCameraPawn* Camera;
+	
+private:
+	
+	void SetupCameraPawn();
 };

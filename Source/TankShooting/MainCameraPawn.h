@@ -32,7 +32,7 @@ public:
 	// Input function
 	void ChangeTarget(ABaseTankCharacter* NewTarget);
 	
-protected:
+public:
 	
 	UPROPERTY(EditAnywhere)
 	USpringArmComponent* CameraSpringArm;
@@ -42,6 +42,9 @@ protected:
 	
 	UPROPERTY(EditAnywhere)
 	ABaseTankCharacter* Target;
+	
+	UPROPERTY(EditAnywhere)
+	FVector Offset;
 	
 	
 };

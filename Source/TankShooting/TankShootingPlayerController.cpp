@@ -9,8 +9,13 @@
 ATankShootingPlayerController::ATankShootingPlayerController()
 {
 	bShowMouseCursor = true;
-	DefaultMouseCursor = EMouseCursor::Crosshairs;
+	DefaultMouseCursor = EMouseCursor::Default;
 	
+	SetupCameraPawn();
+}
+
+void ATankShootingPlayerController::SetupCameraPawn()
+{
 	UWorld* World = GetWorld();
 	if (World != nullptr)
 	{
@@ -73,15 +78,17 @@ void ATankShootingPlayerController::MoveToMouseCursor()
 		else if (HitActorName.Contains(TEXT("Floor")))
 		{
 			// Process here if hits floor
+			SetNewMoveDestination(Hit.ImpactPoint);
+			UE_LOG(LogClass, Log, TEXT("%s Move to impact Point: %f, %f, %f"), *Camera->Target->GetName(), Hit.ImpactPoint.X, Hit.ImpactPoint.Y, Hit.ImpactPoint.Z);
 		}
 		//UE_LOG(LogClass, Log, TEXT("Clicked to %s"), *Hit.GetActor()->GetName());
 	}
 
-	if (Hit.bBlockingHit)
-	{
-		// We hit something, move there
-		SetNewMoveDestination(Hit.ImpactPoint);
-	}
+	//if (Hit.bBlockingHit)
+	//{
+	//	// We hit something, move there
+	//	SetNewMoveDestination(Hit.ImpactPoint);
+	//}
 }
 
 void ATankShootingPlayerController::MoveToTouchLocation(const ETouchIndex::Type FingerIndex, const FVector Location)
@@ -105,11 +112,13 @@ void ATankShootingPlayerController::SetNewMoveDestination(const FVector DestLoca
 	{
 		UNavigationSystem* const NavSys = GetWorld()->GetNavigationSystem();
 		float const Distance = FVector::Dist(DestLocation, Pawn->GetActorLocation());
+		UE_LOG(LogClass, Log, TEXT("Has pawn"));
 
 		// We need to issue move command only if far enough in order for walk animation to play correctly
-		if (NavSys && (Distance > 120.0f))
+		if (NavSys && Distance >= 120.0f)
 		{
 			NavSys->SimpleMoveToLocation(this, DestLocation);
+			UE_LOG(LogClass, Log, TEXT("Has nav sys"));
 		}
 	}
 }
