@@ -9,7 +9,6 @@
 ATankShootingPlayerController::ATankShootingPlayerController()
 {
 	bShowMouseCursor = true;
-<<<<<<< HEAD
 	DefaultMouseCursor = EMouseCursor::Default;
 	
 	SetupCameraPawn();
@@ -17,10 +16,6 @@ ATankShootingPlayerController::ATankShootingPlayerController()
 
 void ATankShootingPlayerController::SetupCameraPawn()
 {
-=======
-	DefaultMouseCursor = EMouseCursor::Crosshairs;
-	
->>>>>>> 193e12b... Allow PlayerController to possess tanks when clicking on one
 	UWorld* World = GetWorld();
 	if (World != nullptr)
 	{
@@ -67,30 +62,6 @@ void ATankShootingPlayerController::MoveToMouseCursor()
 	GetHitResultUnderCursor(ECC_Visibility, false, Hit);
 	
 	if (Hit.GetActor() != nullptr)
-<<<<<<< HEAD
-=======
-	{
-		AActor* HitActor = Hit.GetActor();
-		FString HitActorName = Hit.GetActor()->GetName();
-		if (HitActorName.Contains(TEXT("Tank")))
-		{
-			// Process here if hits a tank
-			UnPossess();
-			Possess((APawn*)HitActor);
-			UE_LOG(LogClass, Log, TEXT("Possess tank %s"), *HitActor->GetName());
-			Camera->ChangeTarget((ABaseTankCharacter*)HitActor);
-			
-			SetViewTarget(Camera);
-		}
-		else if (HitActorName.Contains(TEXT("Floor")))
-		{
-			// Process here if hits floor
-		}
-		//UE_LOG(LogClass, Log, TEXT("Clicked to %s"), *Hit.GetActor()->GetName());
-	}
-
-	if (Hit.bBlockingHit)
->>>>>>> 193e12b... Allow PlayerController to possess tanks when clicking on one
 	{
 		AActor* HitActor = Hit.GetActor();
 		FString HitActorName = Hit.GetActor()->GetName();

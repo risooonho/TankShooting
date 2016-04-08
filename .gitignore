@@ -35,6 +35,7 @@
 *.opensdf
 *.sdf
 *.kdev4
+*.pro
 *.pro.user
 *.pri
 *.workspace

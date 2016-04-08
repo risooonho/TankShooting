@@ -38,11 +38,8 @@ public:
 	
 	UPROPERTY(EditAnywhere)
 	AMainCameraPawn* Camera;
-<<<<<<< HEAD
 	
 private:
 	
 	void SetupCameraPawn();
-=======
->>>>>>> 193e12b... Allow PlayerController to possess tanks when clicking on one
 };

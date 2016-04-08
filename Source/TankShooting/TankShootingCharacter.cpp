@@ -9,18 +9,6 @@ ATankShootingCharacter::ATankShootingCharacter()
 
 	// Create a Box Component
 	BoxComponent = CreateDefaultSubobject<UBoxComponent>(TEXT("BoxComponent"));
-<<<<<<< HEAD
-=======
-	
-/*	static FName CollisionProfileName(TEXT("Pawn"));
-	BoxComponent->SetCollisionProfileName(CollisionProfileName);
-	BoxComponent->CanCharacterStepUpOn = ECB_No;
-	BoxComponent->bShouldUpdatePhysicsVolume = true;
-	BoxComponent->bCheckAsyncSceneOnMove = false;
-	BoxComponent->bCanEverAffectNavigation = false;
-	BoxComponent->bDynamicObstacle = true;*/
-	//BoxComponent->SetSimulatePhysics(true);
->>>>>>> 193e12b... Allow PlayerController to possess tanks when clicking on one
 	RootComponent = BoxComponent;
 
 	// Create a Character Movement component
