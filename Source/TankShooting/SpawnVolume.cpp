@@ -97,7 +97,8 @@ void ASpawnVolume::SpawnTank(TSubclassOf<class ABaseTankCharacter> WhatToSpawn)
 			SpawnRotation.Roll = 0.0f;
 			
 			// Spawn the tank
-			ABaseTankCharacter* const SpawnedTank = World->SpawnActor<ABaseTankCharacter>(WhatToSpawn, SpawnLocation, SpawnRotation, SpawnParams);
+			ABaseTankCharacter* SpawnedTank = World->SpawnActor<ABaseTankCharacter>(WhatToSpawn, SpawnLocation, SpawnRotation, SpawnParams);
+			SpawnedTank->Side = Side;
 		}
 	}
 }

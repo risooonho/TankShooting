@@ -42,6 +42,9 @@ public:
 	
 	UPROPERTY(EditAnywhere, Category = "Spawning")
 	TSubclassOf<class ABaseTankCharacter> HeavyTankCharacter;
+
+	UPROPERTY(EditAnywhere, Category = "Spawning")
+	int32 Side;
 	
 private:
 

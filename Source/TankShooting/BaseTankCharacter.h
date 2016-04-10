@@ -75,13 +75,13 @@ public:
 public:
 	
 	// Spotted targets: the enemy's tanks those are currently staying in this tank and its teammates' view range
-	TArray<FTransform*> *SpottedTargets;
+	TArray<ABaseTankCharacter*> SpottedTargets;
 	
 	// Attackable targets: the enemy's tanks those are currently staying in this tank's attack range
-	TArray<FTransform*> *AttackableTargets;
+	TArray<ABaseTankCharacter*> AttackableTargets;
 	
 	// Attack target: the enemy that is staying closest to this tank and inside this tank's attack range
-	FTransform* Target;
+	ABaseTankCharacter* Target;
 	
 	/*
 	 * Called to update this tank's spotted targets

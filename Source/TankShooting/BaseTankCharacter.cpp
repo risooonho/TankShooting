@@ -26,9 +26,7 @@ void ABaseTankCharacter::BeginPlay()
 	Super::BeginPlay();
 	
 	// Clear the spotted and attackable targets arrays
-	//SpottedTargets = new std::vector<FTransform*>();
-	//AttackableTargets = new std::vector<FTransform*>();
-	Target = NULL;
+	Target = nullptr;
 }
 
 // Called every frame
@@ -44,12 +42,24 @@ void ABaseTankCharacter::Tick( float DeltaTime )
 // Implement UpdateSpottedTarget
 void ABaseTankCharacter::UpdateSpottedTargets()
 {
-	//FVector::Dist()
-	for (TActorIterator<AActor> It(GetWorld()); It; ++It)
+	SpottedTargets.Empty();
+	UWorld* World = GetWorld();
+	if (World != nullptr)
 	{
-		AActor* Actor = *It;
-		if (Actor->ActorHasTag(FName(TEXT("Tank"))))
+		for (TActorIterator<ABaseTankCharacter> TankItr(World); TankItr; ++TankItr)
 		{
+			ABaseTankCharacter *Tank = *TankItr;
+
+			if (Tank == nullptr)
+				continue;
+
+			// Teammates
+			if (Tank->Side == this->Side)
+				continue;
+
+			float DistanceToEnemy = FVector::Dist(this->GetActorLocation(), Tank->GetActorLocation());
+			if (DistanceToEnemy <= ViewRange)
+				SpottedTargets.Add(Tank);
 		}
 	}
 }
@@ -57,9 +67,38 @@ void ABaseTankCharacter::UpdateSpottedTargets()
 // Implement UpdateAttackableTarget
 void ABaseTankCharacter::UpdateAttackableTargets()
 {
+	AttackableTargets.Empty();
+	for (int32 i = 0; i < SpottedTargets.Num(); i++)
+	{
+		float DistanceToEnemy = FVector::Dist(this->GetActorLocation(), SpottedTargets[i]->GetActorLocation());
+		if (DistanceToEnemy < AttackRange)
+			AttackableTargets.Add(SpottedTargets[i]);
+	}
 }
 
 // Implement AcquireTarget
 void ABaseTankCharacter::AcquireTarget()
 {
+	if (AttackableTargets.Num() == 0)
+	{
+		Target = nullptr;
+		return;
+	}
+
+	if (Target != nullptr)
+	{
+		return;
+	}
+
+	float MinDistance = FVector::Dist(this->GetActorLocation(), AttackableTargets[0]->GetActorLocation());
+	Target = AttackableTargets[0];
+	for (int32 i = 1; i < AttackableTargets.Num(); i++)
+	{
+		float Distance = FVector::Dist(this->GetActorLocation(), AttackableTargets[i]->GetActorLocation());
+		if (Distance < MinDistance)
+		{
+			MinDistance = Distance;
+			Target = AttackableTargets[i];
+		}
+	}
 }
