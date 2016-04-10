@@ -116,7 +116,7 @@ void ATankShootingPlayerController::SetNewMoveDestination(const FVector DestLoca
 		UE_LOG(LogClass, Log, TEXT("Has pawn"));
 
 		// We need to issue move command only if far enough in order for walk animation to play correctly
-		if (NavSys && Distance >= 120.0f)
+		if (NavSys && Distance >= 300.0f)
 		{
 			NavSys->SimpleMoveToLocation(this, DestLocation);
 			UE_LOG(LogClass, Log, TEXT("Has nav sys"));

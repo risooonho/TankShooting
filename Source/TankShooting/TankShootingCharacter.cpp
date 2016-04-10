@@ -8,15 +8,10 @@ ATankShootingCharacter::ATankShootingCharacter()
 	PrimaryActorTick.bCanEverTick = true;
 
 	// Create a Box Component
-	BoxComponent = CreateDefaultSubobject<UBoxComponent>(TEXT("BoxComponent"));
-	RootComponent = BoxComponent;
+	//BoxComponent = CreateDefaultSubobject<UBoxComponent>(TEXT("BoxComponent"));
 
-	// Create a Character Movement component
-	PawnMovement = CreateDefaultSubobject<UPawnMovementComponent>(TEXT("CharacterMovement"));
-	if (PawnMovement)
-	{
-		PawnMovement->UpdatedComponent = BoxComponent;
-	}
+	// Set size for player capsule
+	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
 
 	// Don't rotate character to camera direction
 	bUseControllerRotationPitch = false;
@@ -24,14 +19,9 @@ ATankShootingCharacter::ATankShootingCharacter()
 	bUseControllerRotationRoll = false;
 
 	// Configure character movement
-	//GetPawnMovement()->bOrientRotationToMovement = true; // Rotate character to moving direction
-	//GetPawnMovement()->RotationRate = FRotator(0.f, 640.f, 0.f);
-	GetPawnMovement()->bConstrainToPlane = true;
-	GetPawnMovement()->bSnapToPlaneAtStart = true;
+	GetCharacterMovement()->bOrientRotationToMovement = true; // Rotate character to moving direction
+	GetCharacterMovement()->RotationRate = FRotator(0.f, 640.f, 0.f);
+	GetCharacterMovement()->bConstrainToPlane = true;
+	GetCharacterMovement()->bSnapToPlaneAtStart = true;
 
-}
-
-class UPawnMovementComponent* ATankShootingCharacter::GetPawnMovement() const
-{
-	return PawnMovement;
 }

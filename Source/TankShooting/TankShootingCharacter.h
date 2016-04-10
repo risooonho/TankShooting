@@ -4,24 +4,17 @@
 #include "TankShootingCharacter.generated.h"
 
 UCLASS(Blueprintable)
-class ATankShootingCharacter : public APawn
+class ATankShootingCharacter : public ACharacter
 {
 	GENERATED_BODY()
-	
-public:
-	
-	// Box Collision as the root component
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	class UBoxComponent *BoxComponent;
-
-	// CharacterMovement for controlling tank's movement
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	UPawnMovementComponent* PawnMovement;
 
 public:
+
+//	// Box Collision as the root component
+//	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+//	class UBoxComponent *BoxComponent;
+
 	ATankShootingCharacter();
-
-	class UPawnMovementComponent* GetPawnMovement() const;
 
 };
 
