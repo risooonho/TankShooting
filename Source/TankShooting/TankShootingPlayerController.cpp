@@ -49,15 +49,13 @@ void ATankShootingPlayerController::SetupInputComponent()
 	Super::SetupInputComponent();
 
 	InputComponent->BindAction("SetDestination", IE_Pressed, this, &ATankShootingPlayerController::OnSetDestinationPressed);
-	InputComponent->BindAction("SetDestination", IE_Released, this, &ATankShootingPlayerController::OnSetDestinationReleased);
-
-	// support touch devices 
-	InputComponent->BindTouch(EInputEvent::IE_Pressed, this, &ATankShootingPlayerController::MoveToTouchLocation);
-	InputComponent->BindTouch(EInputEvent::IE_Repeat, this, &ATankShootingPlayerController::MoveToTouchLocation);
+	//InputComponent->BindAction("SetDestination", IE_Released, this, &ATankShootingPlayerController::OnSetDestinationReleased);
 }
 
 void ATankShootingPlayerController::MoveToMouseCursor()
 {
+	bMoveToMouseCursor = false;
+
 	// Trace to see what is under the mouse cursor
 	FHitResult Hit;
 	GetHitResultUnderCursor(ECC_Visibility, false, Hit);
@@ -73,7 +71,7 @@ void ATankShootingPlayerController::MoveToMouseCursor()
 			Possess((APawn*)HitActor);
 			UE_LOG(LogClass, Log, TEXT("Possess tank %s"), *HitActor->GetName());
 			Camera->ChangeTarget((ABaseTankCharacter*)HitActor);
-			
+
 			SetViewTarget(Camera);
 		}
 		else if (HitActorName.Contains(TEXT("Floor")))
