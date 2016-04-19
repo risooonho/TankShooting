@@ -2,19 +2,27 @@
 
 #include "TankShooting.h"
 #include "TankShootingGameMode.h"
+#include "TankShootingGameState.h"
 #include "TankShootingPlayerController.h"
 #include "TankShootingCharacter.h"
 
 ATankShootingGameMode::ATankShootingGameMode()
 {
-	// use our custom PlayerController class
 	PlayerControllerClass = ATankShootingPlayerController::StaticClass();
+	GameStateClass = ATankShootingGameState::StaticClass();
+}
 
-	// set default pawn class to our Blueprinted character
-	//static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/TopDownCPP/Blueprints/TopDownCharacter"));
-	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/Blueprints/HeavyTankCharacter"));
-	if (PlayerPawnBPClass.Class != NULL)
+void ATankShootingGameMode::InitGameState()
+{
+	Super::InitGameState();
+
+	ATankShootingGameState* MyGameState = Cast<ATankShootingGameState>(GameState);
+	if (MyGameState)
 	{
-		DefaultPawnClass = PlayerPawnBPClass.Class;
+		MyGameState->SetPlayerInControl(0);
 	}
 }
+
+//ATankShootingGameMode::Tick(float DeltaSeconds)
+//{
+//}

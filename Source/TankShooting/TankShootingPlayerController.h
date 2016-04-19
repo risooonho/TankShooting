@@ -2,6 +2,8 @@
 #pragma once
 #include "GameFramework/PlayerController.h"
 #include "MainCameraPawn.h"
+#include "TankShootingGameState.h"
+#include "BaseTankCharacter.h"
 #include "TankShootingPlayerController.generated.h"
 
 UCLASS()
@@ -41,5 +43,17 @@ public:
 	
 private:
 	
+	void PossessTank(ABaseTankCharacter* Tank);
+
 	void SetupCameraPawn();
+
+	bool IsAtTarget();
+
+	ATankShootingGameState* MyGameState;
+
+	ABaseTankCharacter* CurrentTankInControl;
+
+	FVector* GoalLoc;
+
+	bool bTargetSelected;
 };

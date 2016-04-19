@@ -5,6 +5,7 @@
 #include "EngineUtils.h"
 #include "TankShootingPlayerController.h"
 #include "AI/Navigation/NavigationSystem.h"
+#include "Runtime/AIModule/Classes/Navigation/PathFollowingComponent.h"
 
 ATankShootingPlayerController::ATankShootingPlayerController()
 {
@@ -12,6 +13,12 @@ ATankShootingPlayerController::ATankShootingPlayerController()
 	DefaultMouseCursor = EMouseCursor::Default;
 	
 	SetupCameraPawn();
+
+	//MyGameState = Cast<ATankShootingGameState>(GetWorld()->GameState);
+	MyGameState = nullptr;
+	CurrentTankInControl = nullptr;
+	GoalLoc = nullptr;
+	bTargetSelected = false;
 }
 
 void ATankShootingPlayerController::SetupCameraPawn()
@@ -36,11 +43,61 @@ void ATankShootingPlayerController::PlayerTick(float DeltaTime)
 {
 	Super::PlayerTick(DeltaTime);
 
+	if (MyGameState == nullptr)
+	{
+		UWorld* World = GetWorld();
+		MyGameState = Cast<ATankShootingGameState>(World->GameState);
+	}
+
 	// keep updating the destination every tick while desired
 	if (bMoveToMouseCursor)
 	{
 		MoveToMouseCursor();
 	}
+
+	// Change turn to other player
+	if (IsAtTarget())
+	{
+		MyGameState->SetPlayerInControl(1 - MyGameState->GetPlayerInControl());
+		int32 NextSide = MyGameState->GetPlayerInControl();
+		UWorld* World = GetWorld();
+
+		UE_LOG(LogClass, Log, TEXT("Is at target"));
+
+		if (World != nullptr)
+		{
+			for (TActorIterator<ABaseTankCharacter> TankItr(World); TankItr; ++TankItr)
+			{
+				ABaseTankCharacter *Tank = *TankItr;
+
+				if (Tank == nullptr)
+					continue;
+
+				if (Tank->Side == NextSide)
+				{
+					PossessTank(Tank);
+					//UE_LOG(LogClass, Log, TEXT("Possess new tank: %s"), *Tank->GetName());
+
+					delete GoalLoc;
+					GoalLoc = nullptr;
+					bTargetSelected = false;
+
+					break;
+				}
+			}
+		}
+	}
+}
+
+void ATankShootingPlayerController::PossessTank(ABaseTankCharacter *Tank)
+{
+	UnPossess();
+	Possess(Tank);
+	CurrentTankInControl = Tank;
+	Camera->ChangeTarget(Tank);
+	//UE_LOG(LogClass, Log, TEXT("Camera new target: %s"), *Camera->Target->GetName());
+//	if (GetViewTarget() != Camera)
+	SetViewTarget(Camera);
 }
 
 void ATankShootingPlayerController::SetupInputComponent()
@@ -66,29 +123,33 @@ void ATankShootingPlayerController::MoveToMouseCursor()
 		FString HitActorName = Hit.GetActor()->GetName();
 		if (HitActorName.Contains(TEXT("Tank")))
 		{
-			// Process here if hits a tank
-			UnPossess();
-			Possess((APawn*)HitActor);
-			UE_LOG(LogClass, Log, TEXT("Possess tank %s"), *HitActor->GetName());
-			Camera->ChangeTarget((ABaseTankCharacter*)HitActor);
+			// Check if we have picked move target or not
+			if (bTargetSelected)
+				return;
 
-			SetViewTarget(Camera);
+			// Check if hit a fellow tank
+			ABaseTankCharacter* HitTank = (ABaseTankCharacter*)HitActor;
+			if (HitTank->Side != MyGameState->GetPlayerInControl())
+			{
+				return;
+			}
+
+			// Process here if hits a fellow tank
+			PossessTank(HitTank);
 		}
 		else if (HitActorName.Contains(TEXT("Floor")))
 		{
 			// Process here if hits floor
+			if (bTargetSelected)
+				return;
+
 			SetNewMoveDestination(Hit.ImpactPoint);
 			UE_LOG(LogClass, Log, TEXT("%s Move to impact Point: %f, %f, %f"), *Camera->Target->GetName(), Hit.ImpactPoint.X, Hit.ImpactPoint.Y, Hit.ImpactPoint.Z);
 		}
-		//UE_LOG(LogClass, Log, TEXT("Clicked to %s"), *Hit.GetActor()->GetName());
 	}
-
-	//if (Hit.bBlockingHit)
-	//{
-	//	// We hit something, move there
-	//	SetNewMoveDestination(Hit.ImpactPoint);
-	//}
 }
+
+
 
 void ATankShootingPlayerController::MoveToTouchLocation(const ETouchIndex::Type FingerIndex, const FVector Location)
 {
@@ -111,19 +172,22 @@ void ATankShootingPlayerController::SetNewMoveDestination(const FVector DestLoca
 	{
 		UNavigationSystem* const NavSys = GetWorld()->GetNavigationSystem();
 		float const Distance = FVector::Dist(DestLocation, Pawn->GetActorLocation());
-		UE_LOG(LogClass, Log, TEXT("Has pawn"));
 
 		// We need to issue move command only if far enough in order for walk animation to play correctly
 		if (NavSys && Distance >= 300.0f)
 		{
 			NavSys->SimpleMoveToLocation(this, DestLocation);
-			UE_LOG(LogClass, Log, TEXT("Has nav sys"));
+			GoalLoc = new FVector(DestLocation.X, DestLocation.Y, DestLocation.Z);
+			bTargetSelected = true;
 		}
 	}
 }
 
 void ATankShootingPlayerController::OnSetDestinationPressed()
 {
+	if (MyGameState == nullptr)
+		return;
+
 	// set flag to keep updating destination until released
 	bMoveToMouseCursor = true;
 }
@@ -132,4 +196,28 @@ void ATankShootingPlayerController::OnSetDestinationReleased()
 {
 	// clear flag to indicate we should stop updating the destination
 	bMoveToMouseCursor = false;
+}
+
+bool ATankShootingPlayerController::IsAtTarget()
+{
+	if (!bTargetSelected)
+		return false;
+
+	if (GoalLoc == nullptr)
+		return false;
+
+	UPathFollowingComponent* PFollowComp = nullptr;
+	InitNavigationControl(PFollowComp);
+
+	if (PFollowComp == nullptr)
+	{
+		return false;
+	}
+
+	if (PFollowComp->HasReached(*GoalLoc))
+	{
+		return true;
+	}
+
+	return false;
 }
