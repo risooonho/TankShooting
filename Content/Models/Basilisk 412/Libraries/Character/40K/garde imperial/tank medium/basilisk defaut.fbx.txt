@@ -1,0 +1,17 @@
+Unable to read material "hull_interieur" in .mtl file
+Unable to read material "central_hull" in .mtl file
+Unable to read material "chassis-Tube" in .mtl file
+Unable to read material "sol_chassis_1" in .mtl file
+Unable to read material "balustrade_1" in .mtl file
+Unable to read material "coque_side" in .mtl file
+Unable to read material "group__tracks" in .mtl file
+Unable to read material "aigle" in .mtl file
+Unable to read material "CANON_2" in .mtl file
+Unable to read material "CULASSE" in .mtl file
+Unable to read material "base_hull__ecoutille" in .mtl file
+Unable to read material "ecoutille_1" in .mtl file
+Unable to read material "ecoutille_2" in .mtl file
+Unable to read material "fulgurant_1" in .mtl file
+Unable to read material "trappe_e_2" in .mtl file
+Unable to read material "meutriere_pilote" in .mtl file
+Unable to read material "coque_bolter" in .mtl file

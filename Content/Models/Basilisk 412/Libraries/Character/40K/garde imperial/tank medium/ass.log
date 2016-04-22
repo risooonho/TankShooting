@@ -1,0 +1,206 @@
+17:10:28: Creating resource group General
+17:10:28: Creating resource group Internal
+17:10:28: Creating resource group Autodetect
+17:10:28: Registering ResourceManager for type Mesh
+17:10:28: Registering ResourceManager for type Material
+17:10:28: Registering ResourceManager for type Skeleton
+17:10:28: ArchiveFactory for archive type FileSystem registered.
+17:10:28: *** Loading ass file... ***
+17:10:28: Filename ./basilisk defaut.obj
+17:10:28: Added resource location './' of type 'FileSystem' to resource group 'General'
+17:10:28: Added resource location './resources' of type 'FileSystem' to resource group 'General'
+17:10:28: Parsing scripts for resource group Autodetect
+17:10:28: Finished parsing scripts for resource group Autodetect
+17:10:28: Creating resources for group Autodetect
+17:10:28: All done
+17:10:28: Parsing scripts for resource group General
+17:10:28: Finished parsing scripts for resource group General
+17:10:28: Creating resources for group General
+17:10:28: All done
+17:10:28: Parsing scripts for resource group Internal
+17:10:28: Finished parsing scripts for resource group Internal
+17:10:28: Creating resources for group Internal
+17:10:28: All done
+17:10:28: Node basilisk defaut.obj found.
+17:10:28: Node basilisk found.
+17:10:28: Node defaultobject found.
+17:10:28: Node defaultobject found.
+17:10:28: Node defaultobject found.
+17:10:28: Node defaultobject found.
+17:10:28: Node defaultobject found.
+17:10:28: Node defaultobject found.
+17:10:28: Node defaultobject found.
+17:10:28: Node defaultobject found.
+17:10:28: Node defaultobject found.
+17:10:28: Node defaultobject found.
+17:10:28: Node defaultobject found.
+17:10:28: Node defaultobject found.
+17:10:28: Node defaultobject found.
+17:10:28: Node defaultobject found.
+17:10:28: Node defaultobject found.
+17:10:28: Node defaultobject found.
+17:10:28: SubMesh 0 for mesh 'basilisk'
+17:10:28: 483 vertices
+17:10:28: 483 normals
+17:10:28: 483 uvs
+17:10:28: 435 faces
+17:10:28: SubMesh 0 for mesh 'defaultobject'
+17:10:28: 7334 vertices
+17:10:28: 7334 normals
+17:10:28: 7334 uvs
+17:10:28: 5272 faces
+17:10:28: SubMesh 0 for mesh 'defaultobject'
+17:10:28: 20639 vertices
+17:10:28: 20639 normals
+17:10:28: 20639 uvs
+17:10:28: 17030 faces
+17:10:28: SubMesh 0 for mesh 'defaultobject'
+17:10:28: 224 vertices
+17:10:28: 224 normals
+17:10:28: 224 uvs
+17:10:28: 224 faces
+17:10:28: SubMesh 0 for mesh 'defaultobject'
+17:10:28: 970 vertices
+17:10:28: 970 normals
+17:10:28: 970 uvs
+17:10:28: 976 faces
+17:10:28: SubMesh 0 for mesh 'defaultobject'
+17:10:28: 22626 vertices
+17:10:28: 22626 normals
+17:10:28: 22626 uvs
+17:10:28: 16974 faces
+17:10:28: SubMesh 0 for mesh 'defaultobject'
+17:10:28: 46304 vertices
+17:10:28: 46304 normals
+17:10:28: 46304 uvs
+17:10:28: 34692 faces
+17:10:28: SubMesh 0 for mesh 'defaultobject'
+17:10:28: 7170 vertices
+17:10:28: 7170 normals
+17:10:28: 7170 uvs
+17:10:28: 2964 faces
+17:10:28: SubMesh 0 for mesh 'defaultobject'
+17:10:28: 18983 vertices
+17:10:28: 18983 normals
+17:10:28: 18983 uvs
+17:10:28: 15820 faces
+17:10:28: SubMesh 0 for mesh 'defaultobject'
+17:10:28: 2607 vertices
+17:10:28: 2607 normals
+17:10:28: 2607 uvs
+17:10:28: 2520 faces
+17:10:28: SubMesh 0 for mesh 'defaultobject'
+17:10:28: 3478 vertices
+17:10:28: 3478 normals
+17:10:28: 3478 uvs
+17:10:28: 2322 faces
+17:10:28: SubMesh 0 for mesh 'defaultobject'
+17:10:28: 771 vertices
+17:10:28: 771 normals
+17:10:28: 771 uvs
+17:10:28: 476 faces
+17:10:28: SubMesh 0 for mesh 'defaultobject'
+17:10:28: 778 vertices
+17:10:28: 778 normals
+17:10:28: 778 uvs
+17:10:28: 474 faces
+17:10:28: SubMesh 0 for mesh 'defaultobject'
+17:10:28: 2350 vertices
+17:10:28: 2350 normals
+17:10:28: 2350 uvs
+17:10:28: 1574 faces
+17:10:28: SubMesh 0 for mesh 'defaultobject'
+17:10:28: 1886 vertices
+17:10:28: 1886 normals
+17:10:28: 1886 uvs
+17:10:28: 536 faces
+17:10:28: SubMesh 0 for mesh 'defaultobject'
+17:10:28: 1465 vertices
+17:10:28: 1465 normals
+17:10:28: 1465 uvs
+17:10:28: 1069 faces
+17:10:28: SubMesh 0 for mesh 'defaultobject'
+17:10:28: 2865 vertices
+17:10:28: 2865 normals
+17:10:28: 2865 uvs
+17:10:28: 2477 faces
+17:10:28: *** Finished loading ass file ***
+17:10:28: MeshSerializer writing mesh data to stream ...
+17:10:28: File header written.
+17:10:28: Writing mesh data...
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Writing submesh...
+17:10:28: Exporting submesh texture aliases...
+17:10:28: Submesh texture aliases exported.
+17:10:28: Submesh exported.
+17:10:28: Exporting bounds information....
+17:10:28: Bounds information exported.
+17:10:28: Exporting submesh name table...
+17:10:28: Submesh name table exported.
+17:10:28: Mesh data exported.
+17:10:28: MeshSerializer export successful.
+17:10:28: Unregistering ResourceManager for type Skeleton
+17:10:28: Unregistering ResourceManager for type Material

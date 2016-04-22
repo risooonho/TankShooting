@@ -1,0 +1,95 @@
+Info,  T0: Logging asses
+Info,  T0: Load ./basilisk defaut.obj
+Debug, T0: Assimp 3.0.1262 amd64 gcc debug shared singlethreaded
+Info,  T0: Found a matching importer for this file format
+Info,  T0: Import root directory is './'
+Error, T0: OBJ: failed to locate material hull_interieur, skipping
+Error, T0: OBJ: failed to locate material central_hull, skipping
+Error, T0: OBJ: failed to locate material chassis-Tube, skipping
+Error, T0: OBJ: failed to locate material sol_chassis_1, skipping
+Error, T0: OBJ: failed to locate material balustrade_1, skipping
+Error, T0: OBJ: failed to locate material coque_side, skipping
+Error, T0: OBJ: failed to locate material group__tracks, skipping
+Error, T0: OBJ: failed to locate material aigle, skipping
+Error, T0: OBJ: failed to locate material CANON_2, skipping
+Error, T0: OBJ: failed to locate material CULASSE, skipping
+Error, T0: OBJ: failed to locate material base_hull__ecoutille, skipping
+Error, T0: OBJ: failed to locate material ecoutille_1, skipping
+Error, T0: OBJ: failed to locate material ecoutille_2, skipping
+Error, T0: OBJ: failed to locate material fulgurant_1, skipping
+Error, T0: OBJ: failed to locate material trappe_e_2, skipping
+Error, T0: OBJ: failed to locate material meutriere_pilote, skipping
+Error, T0: OBJ: failed to locate material coque_bolter, skipping
+Info,  T0: Entering post processing pipeline
+Debug, T0: RemoveRedundantMatsProcess begin
+Debug, T0: RemoveRedundantMatsProcess finished 
+Debug, T0: FindDegeneratesProcess begin
+Warn,  T0: Found 16 degenerated primitives
+Warn,  T0: Found 1 degenerated primitives
+Debug, T0: FindDegeneratesProcess finished
+Debug, T0: GenUVCoordsProcess begin
+Debug, T0: GenUVCoordsProcess finished
+Debug, T0: TransformUVCoordsProcess begin
+Debug, T0: TransformUVCoordsProcess finished
+Debug, T0: TriangulateProcess begin
+Debug, T0: Dropping triangle with area 0
+Skipping one or more lines with the same contents
+Info,  T0: TriangulateProcess finished. All polygons have been triangulated.
+Debug, T0: SortByPTypeProcess begin
+Info,  T0: Points: 0, Lines: 0, Triangles: 17, Polygons: 0 (Meshes, X = removed)
+Debug, T0: SortByPTypeProcess finished
+Debug, T0: FindInvalidDataProcess begin
+Debug, T0: FindInvalidDataProcess finished. Everything seems to be OK.
+Debug, T0: SplitLargeMeshesProcess_Triangle begin
+Debug, T0: SplitLargeMeshesProcess_Triangle finished. There was nothing to do
+Debug, T0: Generate spatially-sorted vertex cache
+Debug, T0: GenVertexNormalsProcess begin
+Info,  T0: GenVertexNormalsProcess finished. Vertex normals have been calculated
+Debug, T0: CalcTangentsProcess begin
+Info,  T0: CalcTangentsProcess finished. Tangents have been calculated
+Debug, T0: JoinVerticesProcess begin
+Debug, T0: Mesh 0 (unnamed) | Verts in: 1019 out: 483 | ~52.6006%
+Debug, T0: Mesh 1 (unnamed) | Verts in: 12465 out: 7334 | ~41.1633%
+Debug, T0: Mesh 2 (unnamed) | Verts in: 55667 out: 20639 | ~62.9242%
+Debug, T0: Mesh 3 (unnamed) | Verts in: 462 out: 224 | ~51.5152%
+Debug, T0: Mesh 4 (unnamed) | Verts in: 2232 out: 970 | ~56.5412%
+Debug, T0: Mesh 5 (unnamed) | Verts in: 39678 out: 22626 | ~42.976%
+Debug, T0: Mesh 6 (unnamed) | Verts in: 74088 out: 46304 | ~37.5014%
+Debug, T0: Mesh 7 (unnamed) | Verts in: 15332 out: 7170 | ~53.2351%
+Debug, T0: Mesh 8 (unnamed) | Verts in: 60688 out: 18983 | ~68.7203%
+Debug, T0: Mesh 9 (unnamed) | Verts in: 7168 out: 2607 | ~63.63%
+Debug, T0: Mesh 10 (unnamed) | Verts in: 7120 out: 3478 | ~51.1517%
+Debug, T0: Mesh 11 (unnamed) | Verts in: 1557 out: 771 | ~50.4817%
+Debug, T0: Mesh 12 (unnamed) | Verts in: 1551 out: 778 | ~49.8388%
+Debug, T0: Mesh 13 (unnamed) | Verts in: 4874 out: 2350 | ~51.785%
+Debug, T0: Mesh 14 (unnamed) | Verts in: 4648 out: 1886 | ~59.4234%
+Debug, T0: Mesh 15 (unnamed) | Verts in: 2826 out: 1465 | ~48.1599%
+Debug, T0: Mesh 16 (unnamed) | Verts in: 8111 out: 2865 | ~64.6776%
+Info,  T0: JoinVerticesProcess finished | Verts in: 299486 out: 140933 | ~52.9%
+Debug, T0: SplitLargeMeshesProcess_Vertex begin
+Debug, T0: SplitLargeMeshesProcess_Vertex finished. There was nothing to do
+Debug, T0: FlipUVsProcess begin
+Debug, T0: FlipUVsProcess finished
+Debug, T0: LimitBoneWeightsProcess begin
+Debug, T0: LimitBoneWeightsProcess end
+Debug, T0: ImproveCacheLocalityProcess begin
+Debug, T0: Mesh 0 | ACMR in: 1.377012 out: 1.147126 | ~16.7%
+Debug, T0: Mesh 1 | ACMR in: 1.554059 out: 1.360584 | ~12.4%
+Debug, T0: Mesh 2 | ACMR in: 1.727363 out: 1.116383 | ~35.4%
+Debug, T0: Mesh 3 | ACMR in: 1.848214 out: 1.084821 | ~41.3%
+Debug, T0: Mesh 4 | ACMR in: 1.480533 out: 1.052254 | ~28.9%
+Debug, T0: Mesh 5 | ACMR in: 1.382408 out: 1.230293 | ~11.0%
+Debug, T0: Mesh 6 | ACMR in: 1.499308 out: 1.355644 | ~9.6%
+Debug, T0: Mesh 7 | ACMR in: 1.251012 out: 1.225371 | ~2.0%
+Debug, T0: Mesh 8 | ACMR in: 1.683439 out: 1.016498 | ~39.6%
+Debug, T0: Mesh 9 | ACMR in: 1.501190 out: 1.022222 | ~31.9%
+Debug, T0: Mesh 10 | ACMR in: 1.534453 out: 1.248062 | ~18.7%
+Debug, T0: Mesh 11 | ACMR in: 1.378151 out: 1.226891 | ~11.0%
+Debug, T0: Mesh 12 | ACMR in: 1.409283 out: 1.240506 | ~12.0%
+Debug, T0: Mesh 13 | ACMR in: 1.499365 out: 1.226175 | ~18.2%
+Debug, T0: Mesh 14 | ACMR in: 1.447761 out: 1.305970 | ~9.8%
+Debug, T0: Mesh 15 | ACMR in: 1.472404 out: 1.325538 | ~10.0%
+Debug, T0: Mesh 16 | ACMR in: 1.128785 out: 0.961243 | ~14.8%
+Info,  T0: Cache relevant are 17 meshes (105835 faces). Average output ACMR is 1.215609
+Debug, T0: ImproveCacheLocalityProcess finished. 
+Info,  T0: Leaving post processing pipeline
