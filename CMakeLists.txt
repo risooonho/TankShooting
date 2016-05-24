@@ -4,7 +4,7 @@
 cmake_minimum_required (VERSION 2.6)
 project (UE4)
 
-set(UE4_ROOT_PATH /home/giang/Programs/UnrealEngine)
+set(UE4_ROOT_PATH /mnt/Data/Programs/UnrealEngine)
 set(GAME_PROJECT_FILE "/mnt/Data/Projects/Unreal Projects/TankShooting/TankShooting.uproject")
 set(BUILD mono ${UE4_ROOT_PATH}/Engine/Binaries/DotNET/UnrealBuildTool.exe )
 set(GAME_ROOT_PATH "/mnt/Data/Projects/Unreal Projects/TankShooting")

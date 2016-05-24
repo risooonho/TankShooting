@@ -14,6 +14,8 @@ class ATankShootingPlayerController : public APlayerController
 public:
 	ATankShootingPlayerController();
 
+	void DoStartupStuffs();
+
 protected:
 	/** True if the controlled character should navigate to the mouse cursor. */
 	uint32 bMoveToMouseCursor : 1;

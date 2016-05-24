@@ -39,14 +39,40 @@ void ATankShootingPlayerController::SetupCameraPawn()
 	DefaultMouseCursor = EMouseCursor::Crosshairs;
 }
 
+void ATankShootingPlayerController::DoStartupStuffs()
+{
+	UE_LOG(LogClass, Log, TEXT("PlayerController BeginPlay"));
+
+	UWorld* World = GetWorld();
+	MyGameState = Cast<ATankShootingGameState>(World->GameState);
+
+	// Possess the first tank of the player in control
+	int PlayerInControl = MyGameState->GetPlayerInControl();
+	for (TActorIterator<ABaseTankCharacter> TankItr(World); TankItr; ++TankItr)
+	{
+		ABaseTankCharacter *Tank = *TankItr;
+		if (Tank == nullptr)
+			continue;
+
+		if (Tank->Side == PlayerInControl)
+		{
+			PossessTank(Tank);
+
+			delete GoalLoc;
+			GoalLoc = nullptr;
+			bTargetSelected = false;
+
+			break;
+		}
+	}
+}
+
 void ATankShootingPlayerController::PlayerTick(float DeltaTime)
 {
 	Super::PlayerTick(DeltaTime);
-
-	if (MyGameState == nullptr)
+	if (CurrentTankInControl == nullptr)
 	{
-		UWorld* World = GetWorld();
-		MyGameState = Cast<ATankShootingGameState>(World->GameState);
+		DoStartupStuffs();
 	}
 
 	// keep updating the destination every tick while desired
