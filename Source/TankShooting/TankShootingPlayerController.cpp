@@ -41,8 +41,6 @@ void ATankShootingPlayerController::SetupCameraPawn()
 
 void ATankShootingPlayerController::DoStartupStuffs()
 {
-	UE_LOG(LogClass, Log, TEXT("PlayerController BeginPlay"));
-
 	UWorld* World = GetWorld();
 	MyGameState = Cast<ATankShootingGameState>(World->GameState);
 

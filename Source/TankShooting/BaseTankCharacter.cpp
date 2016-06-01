@@ -27,6 +27,11 @@ void ABaseTankCharacter::BeginPlay()
 	
 	// Clear the spotted and attackable targets arrays
 	Target = nullptr;
+
+	// Get the static mesh component and make sure it does not receive decals
+	TankMesh = FindComponentByClass<UStaticMeshComponent>();
+	TankMesh->bReceivesDecals = false;
+	CapsuleComponent->bReceivesDecals = false;
 }
 
 // Called every frame

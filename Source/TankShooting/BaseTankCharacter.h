@@ -100,5 +100,9 @@ public:
 	 * no @param
 	 */
 	void AcquireTarget();
+
+private:
+
+	UStaticMeshComponent* TankMesh;
 	
 };
